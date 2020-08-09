@@ -1,11 +1,11 @@
 {
-  "name": "linchpin-nft-minter-and-manager",
+  "name": "linchpin-nft-mint-and-manage",
   "description": "linchpin NFT Minter is a Web3 application used to create non-fungible-tokens.",
   "version": "0.1.0",
   "author": "Scott Stevenson <scott@onelaw.us> and Nate Hart",
   "repository": {
     "type": "git",
-    "url": "git://github.com/tenfinney/linchpin-nft-minter-and-manager.git"
+    "url": "git://github.com/tenfinney/linchpin-nft-mint-and-manage.git"
   },
   "license": "MIT",
   "dependencies": {
